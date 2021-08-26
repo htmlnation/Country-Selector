@@ -1,2 +1,2 @@
 # Country-Selector
-Use For Every Browser. Just A Experiment With HTML Codes
+An HTML Experiment Use For Every Browser. Just A Part Of My Soon Website.
